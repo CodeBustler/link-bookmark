@@ -1,0 +1,39 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+}
+
+body {
+	width: 100%;
+	font-family: "Montserrat", sans-serif;
+}
+
+#title {
+	font-size: 22px;
+	padding-bottom: 10px;
+}
+
+.container {
+	margin: auto;
+}
+
+/* HTML Tutorial | HTML  */
+
+header {
+	background-color: red;
+	position: sticky;
+	top: 0;
+	margin-bottom: 10px;
+}
+
+#chapter1,
+#chapter2 {
+	padding-top: 120px;
+}
+
+header,
+section {
+	padding: 10px;
+}
